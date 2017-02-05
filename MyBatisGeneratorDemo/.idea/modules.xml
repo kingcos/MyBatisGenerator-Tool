@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatisGeneratorDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatisGeneratorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatisGeneratorDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatisGeneratorDemo_main.iml" group="MyBatisGeneratorDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyBatisGeneratorDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MyBatisGeneratorDemo_test.iml" group="MyBatisGeneratorDemo" />
+    </modules>
+  </component>
+</project>
